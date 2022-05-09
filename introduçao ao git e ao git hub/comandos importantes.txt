@@ -9,3 +9,12 @@ outros comandos importantes
 - git add "nome arquivo"
 -git commit -m " mensagem"
 - git add. ou git add -a 
+
+Mandando arquivos 
+-- git status
+-- git add .
+-- git status 
+-- git commit -m "inclusão ..."
+-- git status
+-- git push origin main
+ 
