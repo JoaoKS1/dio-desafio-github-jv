@@ -1,0 +1,26 @@
+O que é um algoritimo ? "  é uma sequência de passos que resolve um problema
+Exemplo de algoritimo:
+Algoritimo do racha cuca- jogo pinguins numa fria
+coloque o pinguin bebe azul no bloco de gelo
+coloque o pai azul no bloco de gelo
+avance o bloco 
+largue o pai azul do outro lado da margem 
+avance o bloco de gelo
+pegue o pinguin bebe verde 
+avance o bloco de gelo
+deixe o pinguin bebe azul do outro lado da margem 
+avance o bloco de gelo
+pegue o pai pinguin verde
+avance o bloco de gelo
+deixe o pinguin pai verde do outro lado da margem 
+avance o bloco de gelo
+pegue o pinguin bebe vermelho 
+avance o bloco de gelo
+deixe o pinguin bebe verde do outro lado da margem 
+avance o bloco de gelo
+pegue o pinguin pai vermelho 
+avance o bloco de gelo
+deixe o pinguin pai vermelho do outro lado da margem 
+deixe o pinguin bebe vermelho do outro lado da margem
+
+o que é um fluxograma ? Fluxograma é uma ferramenta utilizada para representar graficamente o algoritimo, isto é a sequência lógica e coerente do fluxo de dados 
