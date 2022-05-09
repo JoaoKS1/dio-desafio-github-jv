@@ -1,0 +1,11 @@
+Comandos importantes:
+Windows 
+-cd
+-dir
+-mkdir
+-del/rmdir 
+
+outros comandos importantes 
+- git add "nome arquivo"
+-git commit -m " mensagem"
+- git add. ou git add -a 
